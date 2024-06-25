@@ -1,13 +1,19 @@
 body {
     background-color: bisque;
 }
+a {
+    color: brown;
+    font-family: "Nothing You Could Do";
+}
 h1{
     font-family: "Nothing You Could Do";
     font-weight: 800;
+    color: brown;
 }
 h3 {
     font-family: "NOthing You Could Do";
     font-weight: 600;
+    color: brown;
 }
 p {
     font-family: "Libre Baskerville";
@@ -16,12 +22,10 @@ p {
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
   }
-  
   .my-rounded-right {
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
   }
-  
   .my-rounded-all {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
